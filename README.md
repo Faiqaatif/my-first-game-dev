@@ -10,7 +10,7 @@ A classic Match-3 puzzle game inspired by **Candy Crush**, built from scratch in
 | **Mashaf Gill** | `26L-2502` | 
 | **Iman Ashraf** | `26L-2532` |
 
-*(Add or remove rows depending on how many members are in your group!)*
+
 ## ✨ Planned Features
 - [ ] Interactive 2D game board with colorful candy tiles
 - [ ] Mouse-click tile swapping and match-3 detection logic
