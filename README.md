@@ -7,12 +7,13 @@ A classic Match-3 puzzle game inspired by **Candy Crush**, built from scratch in
 ## Group Member Responsibilities & Implementation Details
 
 ## 👥 Team Responsibilities
+## Team Contributions
 
-| Name | Role & Core Features |
+| Contributor | Role & Core Features |
 | :--- | :--- |
+| **Faiqa** | Match-3 Engine (`findMatches`, Clear/Fall/Refill), Hint & Shuffle |
 | **Mahshaf** | Window & Loop, HUD & Win/Loss, Menu & States, Repo Integration |
 | **Iman** | Board from File (`level.txt`), Select & Swap, Save & Continue |
-| **Faiqa** | Match-3 Engine (`findMatches`, Clear/Fall/Refill), Hint & Shuffle |
 ## ✨ Planned Features
 - [ ] Interactive 2D game board with colorful candy tiles
 - [ ] Mouse-click tile swapping and match-3 detection logic
