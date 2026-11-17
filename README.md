@@ -2,12 +2,10 @@
 
 A classic Match-3 puzzle game inspired by **Candy Crush**, built from scratch in **C++** using the 
 
-## 👥 Group Members
-
-## Group Member Responsibilities & Implementation Details
+## 👥 Group Member
 
 ## 👥 Team Responsibilities
-## Team Contributions
+
 
 | Contributor | Role & Core Features |
 | :--- | :--- |
