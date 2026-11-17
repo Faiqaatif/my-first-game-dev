@@ -4,13 +4,15 @@ A classic Match-3 puzzle game inspired by **Candy Crush**, built from scratch in
 
 ## 👥 Group Members
 
-| Name | Roll No. | 
+## Group Member Responsibilities & Implementation Details
+
+## 👥 Team Responsibilities
+
+| Name | Role & Core Features |
 | :--- | :--- |
-| **Faiqa Atif** | `26L-2522` |
-| **Mashaf Gill** | `26L-2502` | 
-| **Iman Ashraf** | `26L-2532` |
-
-
+| **Mahshaf** | Window & Loop, HUD & Win/Loss, Menu & States, Repo Integration |
+| **Iman** | Board from File (`level.txt`), Select & Swap, Save & Continue |
+| **Faiqa** | Match-3 Engine (`findMatches`, Clear/Fall/Refill), Hint & Shuffle |
 ## ✨ Planned Features
 - [ ] Interactive 2D game board with colorful candy tiles
 - [ ] Mouse-click tile swapping and match-3 detection logic
