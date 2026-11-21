@@ -9,9 +9,10 @@ A classic Match-3 puzzle game inspired by **Candy Crush**, built from scratch in
 
 | Contributor | Role & Core Features |
 | :--- | :--- |
-| **Faiqa** | Match-3 Engine (`findMatches`, Clear/Fall/Refill), Hint & Shuffle |
+| **Faiqa** | Board from File (`level.txt`), Select & Swap, Save & Continue |
+| **Iman** | Match-3 Engine (`findMatches`, Clear/Fall/Refill), Hint & Shuffle |
 | **Mahshaf** | Window & Loop, HUD & Win/Loss, Menu & States, Repo Integration |
-| **Iman** | Board from File (`level.txt`), Select & Swap, Save & Continue |
+
 ## ✨ Planned Features
 - [ ] Interactive 2D game board with colorful candy tiles
 - [ ] Mouse-click tile swapping and match-3 detection logic
